@@ -1,112 +1,109 @@
-```md
 <h1 align="center">Hi 👋, I'm Sanjana</h1>
 
-<h3 align="center">
-Information Science Engineering Student | Software Developer | Problem Solver
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Information+Science+Engineering+Student;Full+Stack+Web+Developer;DSA+Learner+%7C+Problem+Solver;Always+Building+%7C+Always+Learning" alt="Typing SVG" />
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Information+Science+Engineering+Student;Passionate+Software+Developer;Web+Development+Enthusiast;DSA+Learner;Always+Building+and+Learning" />
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Sanjana24329"><img src="https://img.shields.io/github/followers/Sanjana24329?label=Follow&style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🙋‍♀️ About Me
 
-🎓 Information Science & Engineering Student
+```yaml
+Name     : Sanjana
+Role     : Information Science & Engineering Student
+Focus    : Full Stack Development • DSA • Cloud Computing
+Mantra   : "Code. Create. Learn. Repeat."
+Status   : Open to internships & collaborations 🚀
+```
 
-💻 Passionate about Software Development and Problem Solving
-
-🌱 Currently Learning:
-- Data Structures & Algorithms
-- Full Stack Development
-- Cloud Computing
-- Software Engineering
-
-🚀 Exploring new technologies and building projects
-
-⚡ Fun Fact: I love turning ideas into reality through code.
+- 🎓 Pursuing **Information Science & Engineering**
+- 💻 Passionate about **Software Development** and **Problem Solving**
+- 🌱 Currently levelling up in **Data Structures & Algorithms** and **Full Stack Development**
+- ⚡ I love turning ideas into real, working products
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
+### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Tools
-
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
-🔹 Home Basket – Grocery Management System
-
-🔹 Student Management System
-
-🔹 Song Library using Linked Lists
-
-🔹 Personal Portfolio Website
-
-🔹 Java & Python Mini Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🌍 [Carbon Footprint Tracker](https://github.com/Sanjana24329/carbon-footprint-tracker) | Estimates monthly carbon footprint & gives eco-friendly recommendations | HTML, CSS, JS |
+| 🔐 [Login Profile PHP Redis](https://github.com/Sanjana24329/login-profile-php-redis) | Full-stack user auth with MySQL + Redis session management | PHP, MySQL, Redis |
+| 📊 [Loan Default Prediction](https://github.com/Sanjana24329/loan-default-prediction) | ML model to predict loan default risk using classification algorithms | Python, Scikit-learn |
+| 🎮 [Guess the Number Game](https://github.com/Sanjana24329/Guess-the-Number-JavaScript-Game) | Interactive number guessing game with real-time feedback | HTML, CSS, JS |
+| 🛒 Home Basket | Grocery Management System | Java |
+| 🎵 Song Library | Data structure-based song manager using Linked Lists | Java/C |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana24329&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana24329&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana24329&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana24329&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana24329&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana24329&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjana24329&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
-🏅 Information Science Engineering Student
-
-🏅 Passionate Problem Solver
-
-🏅 Active Learner
-
-🏅 Project Builder
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjana24329&theme=tokyonight&no-frame=true&column=6" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-📧 Email: your-email@example.com
-
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
-
-🌐 Portfolio: https://your-portfolio.com
-
-🐙 GitHub: https://github.com/Sanjana24329
+<p align="center">
+  <a href="mailto:your-email@example.com">📧 your-email@example.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://your-portfolio.com">🌐 Portfolio</a>
+</p>
 
 ---
 
 <p align="center">
-✨ Code • Create • Learn • Repeat ✨
+  <img src="https://komarev.com/ghpvc/?username=Sanjana24329&label=Profile+Views&color=36BCF7&style=flat" />
 </p>
-```
+
+<p align="center">✨ <i>Code • Create • Learn • Repeat</i> ✨</p>
