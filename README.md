@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanjana-m-achar-5ab4a427b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:machars676@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/Sanjana24329"><img src="https://img.shields.io/github/followers/Sanjana24329?label=Follow&style=for-the-badge&logo=github" /></a>
 </p>
@@ -95,8 +95,8 @@ Status   : Open to internships & collaborations 🚀
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com">📧 your-email@example.com</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:machars676@gmail.com">📧 machars676@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/sanjana-m-achar-5ab4a427b">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://your-portfolio.com">🌐 Portfolio</a>
 </p>
 
